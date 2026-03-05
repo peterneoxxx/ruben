@@ -14,11 +14,11 @@ Este repositório contém a análise detalhada de UI/UX e Qualidade para o proce
 | Item de Análise | Tipo | Classificação | Prioridade | Descrição do Problema / Sugestão |
 | :--- | :---: | :---: | :---: | :--- |
 | **Consistência de Ícones** | 1 | 2 | 3 | Mistura de estilos de ícones (contornados vs. preenchidos) em uma mesma seção. |
-| **Contraste de Texto** | 1 | 2 | 3 | Texto cinza claro sobre fundo branco, dificultando a acessibilidade (WCAG). |
+| **Contraste de Texto** | 1 | 2 | 3 | Texto cinza claro sobre fundo branco, dificultando a acessibilidade. |
 | **Autocomplete na Busca** | 2 | 1 | 2 | Implementação de busca preditiva para agilizar a navegação do usuário. |
 | **Alinhamento do Grid** | 1 | 3 | 2 | Cards com alturas desalinhadas quando o texto varia de tamanho. |
-| **Máscara de Campo** | 2 | 2 | 3 | Falta de máscara (input mask) no campo de telefone do formulário. |
-| **Alinhamentos de Campos** | 1 | 1 | 2 | Falta um alinhamento centralizado, além das palavras que estão em caixa baixa |
+| **Máscara de Campo** | 2 | 2 | 3 | Falta de máscara no campo de telefone do formulário. |
+| **Alinhamentos de Campos** | 1 | 1 | 2 | Falta de alinhamento centralizado, além das palavras que estão em caixa baixa. |
 | **Textos fora dos padrões** | 1 | 1 | 2 | A linguagem utilizada em todo site deveria ser em português, quando na verdade está em outra lingua. |
 | **Botão** | 3 | 3 | 1 | O botão concluir está desalinhado com o restante do card, muito próximo do outro. |
 
@@ -32,7 +32,10 @@ Este repositório contém a análise detalhada de UI/UX e Qualidade para o proce
 | **Seção de FAQ (Dúvidas)** | 2 | 1 |	3  |	Falta de uma seção de perguntas frequentes estruturada com accordion para sanar dúvidas rápidas sobre prazos e validade. |
 | **Depoimentos (Social Proof)**	| 3	| 3	| 2	| Melhorar a exibição de provas sociais (depoimentos de alunos) com fotos e links reais para aumentar a desejabilidade. |
 | **Rodapé Inconsistente**	| 1	| 2	| 1	| Links no rodapé que levam para páginas de erro ou que não condizem com a identidade visual da certificação atual. |
+| **Textos fora dos padrões** | 1 | 1 | 2 | A linguagem utilizada em todo site deveria ser em português, quando na verdade está em outra lingua. |
+| **Botão SAIBA MAIS** | 1 | 3 | 2 | Sem direcionamento, portanto desabilitado. |
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 *   Inspeção Manual (Chrome DevTools)
+*   Cheguei a utilizar selenium pra alguns testes e depois reaproveitar os mesmo, entretanto há muitos erros na pagina. Mesmo assim, se fosse valendo, reportaria os primeiros erros e continuaria a testar.
