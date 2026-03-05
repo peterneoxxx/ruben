@@ -26,12 +26,12 @@ Este repositório contém a análise detalhada de UI/UX e Qualidade para o proce
 
 | Item de Análise | Tipo | Classificação | Prioridade | Descrição do Problema / Sugestão |
 | :--- | :---: | :---: | :---: | :--- |
-| **Hierarquia de Títulos**	| 1	2	3	| Uso de múltiplos H1 ou fontes com o mesmo peso visual, dificultando a leitura rápida dos benefícios da certificação |.
-| **Call to Action (CTA) Fixo** |	2	1	2	| Ausência de um botão de inscrição fixo (sticky) que acompanhe a rolagem da página, facilitando a conversão do usuário. |
-| **Otimização de Imagens**	| 1	2	2	| Imagens de certificados ou selos com baixa resolução ou carregamento lento, prejudicando a percepção de autoridade da página. |
-| **Seção de FAQ (Dúvidas)** |	2	1	3  |	Falta de uma seção de perguntas frequentes estruturada com accordion para sanar dúvidas rápidas sobre prazos e validade. |
-| **Depoimentos (Social Proof)**	| 3	3	2	| Melhorar a exibição de provas sociais (depoimentos de alunos) com fotos e links reais para aumentar a desejabilidade. |
-| **Rodapé Inconsistente**	| 1	2	1	| Links no rodapé que levam para páginas de erro ou que não condizem com a identidade visual da certificação atual. |
+| **Hierarquia de Títulos**	| 1	| 2 |	3	| Uso de múltiplos H1 ou fontes com o mesmo peso visual, dificultando a leitura rápida dos benefícios da certificação |.
+| **Call to Action (CTA) Fixo** |	2 |	1	| 2	| Ausência de um botão de inscrição fixo (sticky) que acompanhe a rolagem da página, facilitando a conversão do usuário. |
+| **Otimização de Imagens**	| 1 |	2	| 2	| Imagens de certificados ou selos com baixa resolução ou carregamento lento, prejudicando a percepção de autoridade da página. |
+| **Seção de FAQ (Dúvidas)** | 2 | 1 |	3  |	Falta de uma seção de perguntas frequentes estruturada com accordion para sanar dúvidas rápidas sobre prazos e validade. |
+| **Depoimentos (Social Proof)**	| 3	| 3	| 2	| Melhorar a exibição de provas sociais (depoimentos de alunos) com fotos e links reais para aumentar a desejabilidade. |
+| **Rodapé Inconsistente**	| 1	| 2	| 1	| Links no rodapé que levam para páginas de erro ou que não condizem com a identidade visual da certificação atual. |
 ---
 
 ## 🛠️ Ferramentas Utilizadas
