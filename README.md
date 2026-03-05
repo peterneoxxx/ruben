@@ -4,7 +4,7 @@ Analise da Qualidade
 markdown
 # 📊 Relatório de Avaliação Técnica - Rubeus
 
-Este repositório contém a análise detalhada de UI/UX e Qualidade para o processo seletivo.
+Este repositório contém a análise detalhada de UI/UX e Qualidade.
 
 Legenda:
 Tipo: 1-Correção, 2-Nova Funcionalidade, 3-Melhoria;
