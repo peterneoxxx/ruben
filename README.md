@@ -6,6 +6,11 @@ markdown
 
 Este repositório contém a análise detalhada de UI/UX e Qualidade para o processo seletivo.
 
+Legenda:
+Tipo: 1-Correção, 2-Nova Funcionalidade, 3-Melhoria;
+Classificação: 1-Utilidade, 2-Usabilidade, 3-Desejabilidade;
+Prioridade: 1-Baixa, 2-Média, 3-Alta.
+
 ---
 
 ## 🔍 1. Avaliação: Portal de Qualidade (https://qualidade.apprbs.com.br)
