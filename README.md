@@ -19,7 +19,7 @@ Este repositório contém a análise detalhada de UI/UX e Qualidade para o proce
 | **Alinhamento do Grid** | 1 | 3 | 2 | Cards com alturas desalinhadas quando o texto varia de tamanho. |
 | **Máscara de Campo** | 2 | 2 | 3 | Falta de máscara (input mask) no campo de telefone do formulário. |
 | **Alinhamentos de Campos** | 1 | 1 | 2 | Falta um alinhamento centralizado, além das palavras que estão em caixa baixa |
-
+| **Textos fora dos padrões** | 1 | 1 | 2 | A linguagem utilizada em todo site deveria ser em português, quando na verdade está em outra lingua. |
 ---
 
 ## 🛠️ Ferramentas Utilizadas
