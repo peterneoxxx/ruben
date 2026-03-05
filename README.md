@@ -1,7 +1,7 @@
 # ruben
 Analise da Qualidade
 
-markdown
+
 # 📊 Relatório de Avaliação Técnica - Rubeus
 
 Este repositório contém a análise detalhada de UI/UX e Qualidade.
